@@ -1,0 +1,15 @@
+{
+  "index.html": {
+    "refer": [
+      "plus/webview.html"
+    ],
+    "resources": []
+  },
+  "plus/webview.html": {
+    "refer": [
+      "plus/webview_embeo.html",
+      "plus/webview_embeoo.html"
+    ],
+    "resources": []
+  }
+}
